@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>fr.inria.lille.spirals</groupId>
-	<artifactId>introclassJava</artifactId>
+	<artifactId>introclassJava-digits7</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>digits-0cea42f9680f35f5a84c724c396d4d588b65c303453f9585562f2e2af8db74f5096a83a70b17c5126538222b111a0795a34e9fb6db95d62d771d01592abe3ff6-002</name>
 	<description>introclassJava dataset</description>
