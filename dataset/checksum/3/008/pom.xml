@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>fr.inria.lille.spirals</groupId>
-	<artifactId>introclassJava</artifactId>
+	<artifactId>introclassJava-checksum9</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>checksum-36d8008b13f6475ca8fa4553fea10042b0a6c623665065672051445c3464d61b29b47cb66321844a0264505a0f5ccf5aa6de072aa266b5a8b0cf13198380a389-008</name>
 	<description>introclassJava dataset</description>
